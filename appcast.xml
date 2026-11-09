@@ -4,6 +4,15 @@
     <title>Twain</title>
     <!-- items -->
     <item>
+      <title>Twain 0.4.2</title>
+      <pubDate>Mon, 09 Nov 2026 01:22:45 -0500</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The welcome screen now draws from 100 Mark Twain quotes, each checked against the original books.</p>]]></description>
+      <enclosure url="https://github.com/billmcauliff/twain-releases/releases/download/v0.4.2/Twain-0.4.2.zip" type="application/octet-stream" sparkle:edSignature="4YVuVCj5BYbrtU1s0hydA+H67YfLqUu1IJBDErj6QTY0BaDpNBHyGEj3GM6JiFaCYBMqoTsGo/ehgHBNttanBg==" length="3987476" />
+    </item>
+    <item>
       <title>Twain 0.4.1</title>
       <pubDate>Sun, 08 Nov 2026 22:47:29 -0500</pubDate>
       <sparkle:version>10</sparkle:version>

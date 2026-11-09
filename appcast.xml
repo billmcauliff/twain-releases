@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Twain</title>
+    <!-- items -->
+    <item>
+      <title>Twain 0.4.0</title>
+      <pubDate>Sun, 08 Nov 2026 22:08:06 -0500</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Print documents with File → Print… (⌘P), and Twain now checks for and installs updates automatically.</p>]]></description>
+      <enclosure url="https://github.com/billmcauliff/twain-releases/releases/download/v0.4.0/Twain-0.4.0.zip" type="application/octet-stream" sparkle:edSignature="Fon2DYnrjVVKRhky3QfPbAzCw+ti1llZ0GXTYPihdaVm4CDDWC6OrqqHdRNf0wt47/DbT/GSj4rrKca7EPE6DA==" length="3842716" />
+    </item>
+  </channel>
+</rss>

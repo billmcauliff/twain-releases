@@ -4,6 +4,15 @@
     <title>Twain</title>
     <!-- items -->
     <item>
+      <title>Twain 0.4.4</title>
+      <pubDate>Wed, 11 Nov 2026 23:45:06 -0500</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Markdown images now show in the reader, the editor and printouts, from files beside your document or from the web. The welcome screen sits on a white page.</p>]]></description>
+      <enclosure url="https://github.com/billmcauliff/twain-releases/releases/download/v0.4.4/Twain-0.4.4.zip" type="application/octet-stream" sparkle:edSignature="8zKBN5gGbAZ8NxpR7aCkYwXZH+rTW3vAlGpHT/Ed4qPQrdfP9ZqeBudDJ4z/+8AKCITB3w989AsuGmJe4rpWAg==" length="4171032" />
+    </item>
+    <item>
       <title>Twain 0.4.3</title>
       <pubDate>Wed, 11 Nov 2026 23:27:11 -0500</pubDate>
       <sparkle:version>12</sparkle:version>
